@@ -1,3 +1,5 @@
 Informacion en un txt
 
 OK.
+
+Nueva info desde otro pc.
